@@ -1,7 +1,11 @@
 # spotify-clone
-
+full responsive music app with JS
 
 [online demo](https://mohammadrezaafroozi.github.io/spotify-clone/)
+![Screenshot (42)](https://github.com/user-attachments/assets/d0ce8302-c33c-44e0-ad9e-9cd8445af8a7)
+![Screenshot (43)](https://github.com/user-attachments/assets/fa0ca0e0-1686-4ec5-9017-d0e67eb03be0)
+
+
 
 - Developed by MohammadReza Afroozi
 - Created - 2025
